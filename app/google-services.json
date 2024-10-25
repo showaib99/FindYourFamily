@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891502306453",
+    "project_id": "find-your-family-final",
+    "storage_bucket": "find-your-family-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891502306453:android:400bf0d8d9538ec15ce79c",
+        "android_client_info": {
+          "package_name": "com.example.findyourfamily"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuLDmXpOaYf1nVPgA78NS-WSpApATgsVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
