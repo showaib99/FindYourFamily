@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#EF288F"
+    android:background="#2EB3A6"
     android:padding="20dp"
     tools:context=".ProfileFragment">
 
@@ -19,7 +19,7 @@
 
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="#C2ACF0"
+            android:background="#BEB9C7"
             android:orientation="vertical"
             android:padding="28dp">
 
@@ -28,7 +28,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="40dp"
                 android:text="Update Profile"
-                android:textColor="#E4119D"
+                android:textColor="#2EB3A6"
                 android:textSize="32sp"
                 android:textStyle="bold" />
 
@@ -108,8 +108,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_marginTop="30dp"
-                android:backgroundTint="#E61FAD"
+                android:backgroundTint="#2EB3A6"
                 android:text="Update Profile"
+                android:textSize="20sp"
                 android:textColor="#FFFFFF"
                 app:cornerRadius="10dp"
                 app:strokeColor="#000000"
